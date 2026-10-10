@@ -241,4 +241,4 @@ This repository serves as the official landing page for Minetest. The software i
 **Get the most recent version of Minetest today!**
 
 ---
-**Last updated:** 2026-10-10 10:14:29 UTC
+**Last updated:** 2026-10-10 16:00:11 UTC
